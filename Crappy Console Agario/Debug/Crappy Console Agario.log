@@ -1,0 +1,11 @@
+﻿  Crappy Console Agario.cpp
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(104,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(104,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(108,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(109,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(152,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(153,53): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(154,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahir\source\repos\Crappy Console Agario\Crappy Console Agario\Crappy Console Agario.cpp(155,51): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Crappy Console Agario.vcxproj -> C:\Users\Mahir\source\repos\Crappy Console Agario\Debug\Crappy Console Agario.exe
